@@ -1,1 +1,1 @@
-git log é um comando que lista os commits realizados
+c zvgit log é um comando que lista os commits realizados
